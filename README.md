@@ -4,6 +4,20 @@ An AI-assisted resume analysis API that compares resume content with a target jo
 
 > Portfolio showcase: this module is part of the Qaddemly AI Recruitment Platform. It focuses on resume keyword analysis and content-alignment recommendations; it does not guarantee ATS ranking or interview outcomes.
 
+## Visual Overview
+
+### Resume Keyword Optimization Workflow
+
+This diagram illustrates the intended workflow from resume input and job description to keyword analysis and actionable recommendations.
+
+![Resume keyword optimization workflow](images/resume-optimization-workflow.png)
+
+### Portfolio Preview
+
+The following visual is a conceptual portfolio showcase of the resume keyword optimization use case.
+
+![Resume keyword optimization portfolio preview](images/resume-optimization-portfolio.png)
+
 ## Features
 
 - Accept structured resume data and a target job description.
