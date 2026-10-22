@@ -6,6 +6,10 @@ An AI-assisted resume analysis API that compares resume content with a target jo
 
 ## Visual Overview
 
+### GitHub Social Preview
+
+![Resume keyword optimization GitHub social preview](images/github-social-preview.png)
+
 ### Resume Keyword Optimization Workflow
 
 This diagram illustrates the intended workflow from resume input and job description to keyword analysis and actionable recommendations.
